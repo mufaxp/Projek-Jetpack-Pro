@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab Movies</string>
+    <string name="title_activity_detail">Detail</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="release_date">Release Date</string>
+    <string name="age_rating">Age Rating</string>
+    <string name="duration">Duration</string>
+    <string name="genre">Genre</string>
+    <string name="director">Director</string>
+    <string name="writer">Writer</string>
+    <string name="stars">Stars</string>
+    <string name="rating">Rating</string>
+    <string name="language">Language</string>
+    <string name="number_episode">Number of Episode</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="year">Year</string>
+    <string name="share_text">Let\'s watch %s together with me.</string>
+    <string name="image_poster">Image Poster</string>
+    <string name="bookmark">Bookmark</string>
+</resources>
